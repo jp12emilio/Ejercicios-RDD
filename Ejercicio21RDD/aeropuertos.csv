@@ -1,9 +1,8 @@
-aeropuerto,nombre,ciudad,pais,latitud,altitud,longitud,zonaHoraria
 651561,Juan Santamaria,San Jose,Costa Rica,21,15,19,UTF +1
 565488,Maradona,Buenos Aires,Argentina,56,2,89,UTF +3
 135135,Tegel,Berlin,Alemania,45,15,48,UTF +6
-555554,Barajas,Madrid,Espa�a,23,39,89, UTF +11
+555554,Barajas,Madrid,España,23,39,89, UTF +11
 868321,Pearson,Toronto,Canada,25,67,23,UTF -9
 456898,Domodedovo,Moscu,Rusia,54,54,15,UTF -7
 648652,Porto Santo,Coimbra,Portugal,90,32,54,UTF -4
-326558,JAU,Granada,Espa�a,69,25,5,UTF -2
+326558,JAU,Granada,España,69,25,5,UTF -2
